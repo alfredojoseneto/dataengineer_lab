@@ -1,4 +1,4 @@
-# dataengineer_lab
+# Data Engineer Lab
 
 Este foi um projeto criado para estruturar um ambiente que facilitasse o aprendizado ao longo das aulas do MBA de Engenharia de Dados da PUC.
 
